@@ -1,0 +1,47 @@
+MATERI TENTANG KECERDASAN BUATAN
+
+
+Sejarah dan Perkembangan Kecerdasan Buatan 
+
+Dari penjelasan diatas, mungkin kamu akan langsung merasa penasaran sebenarnya sejak kapan kecerdasan buatan mulai diperkenalkan di muka bumi? Meskipun teknologi pintar baru menjadi tren beberapa tahun belakangan ini. Ternyata saat melihat sejarah dari perkembangannya, diketahui sudah mulai dicetuskan sejak puluhan tahun silam. 
+
+Dilansir dari berbagai sumber, istilah AI pertama kali dicetuskan di tahun 1956. DImana pada masa tersebut mulai dilakukan riset awal mengenai teknologi AI namun masih sangat sederhana. Sebab teknologi di tahun 1950-an tentu tidak atau belum secanggih sekarang. Pada masa tersebut, baru mulai dilakukan eksplorasi terhadap topik-topik sederhana. 
+
+Seperti topik dalam menyelesaikan suatu permasalahan sederhana dan kemudian topik mengenai suatu metode simbolik. Memasuki tahun 1960-an Amerika Serikat kemudian menaruh perhatian pada teknologi AI yang dicetuskan satu dekade sebelumnya tersebut. Negara adidaya tersebut kemudian melatih komputer untuk meniru penalaran manusia. 
+
+Salah satu contoh aplikasi kecerdasan buatan oleh Amerika Serikat di masa tersebut adalah teknologi Defense Advanced Research Projects Agency (DARPA). Kesuksesan awal DARPA adalah ketika menyelesaikan pemetaan pembuatan jalan di tahun 1970-an. 
+
+Kemudian baru kemudian di tahun 2003, DARPA sukses menghasilkan asisten pribadi cerdas. Sehingga menjadi pelopor teknologi AI jauh sebelum Siri maupun Alexa ditemukan. Selain DARPA masih banyak proyek lain yang mencoba mengaplikasikan AI, dan tentunya tidak hanya di negara Amerika Serikat saja. Namun seluruh negara di dunia. 
+
+Masa awal AI mulai dikenal publik dan kemudian diketahui memiliki kemampuan baik dalam meniru kegiatan manusia. Kemudian memunculkan banyak anggapan negatif, dimana manusia akan digeser oleh mesin. Selain itu stigma AI semakin diperparah dengan penggambarannya di berbagai film dan cenderung menakutkan. 
+
+Misalnya ada sebuah film yang menceritakan bahwa robot dengan teknologi AI ini menginvasi manusia. Menyerang manusia dan menguasai bumi yang kemudian memberi kerugian besar bagi umat manusia. Namun seiring berjalannya waktu, AI kemudian mendapatkan respon dan penilaian lebih positif. 
+
+Apalagi sudah banyak perangkat dengan teknologi tersebut justru bisa dengan mudah membantu pekerjaan sehari-hari dan juga mudah untuk dikendalikan. Artinya Ai kemudian menjadi teman bukan lagi dianggap sebagai musuh dan ancaman.
+
+
+Pengertian Kecerdasan Buatan
+
+Kecerdasan Buatan adalah bidang ilmu yang mempelajari cara membuat sistem komputer dapat berpikir, bertindak dan menghasilkan keputusan layaknya kecerdasan alamiah yang dimiliki oleh manusia.
+
+
+4 Bentuk Kecerdasan Buatan 
+
+Teknologi AI juga umumnya memiliki satu dari empat bentuk kecerdasan berikut: 
+1. Acting humanly
+bentuk pertama adalah membuat suatu sistem komputer untuk mampu melakukan suatu pekerjaan atau aktivitas seperti yang biasa dilakukan oleh manusia. 
+
+2. Thinking humanly
+bentuk kedua adalah bisa membuat sistem tersebut berpikir seperti halnya manusia yang kemudian akan menentukan tindakan dari sistem tersebut. Sehingga bisa dikatakan bahwa sistem dibuat bisa melakukan pemikiran yang manusiawi. 
+
+3. Think rationally
+Bentuk selanjutnya adalah membuat suatu sistem komputer untuk bisa berpikir secara rasional sehingga tidak lagi berpikir kaku dan menunjukan bahwa dirinya ada mesin. 
+
+4. Act rationally
+jadi teknologi AI pada perangkat komputer atau yang berbasis komputer adalah bisa bertindak secara rasional. Tidak hanya bisa meniru pekerjaan manusia namun juga bisa menyadari suatu masalah dan kesalahan. Supaya pekerjaan yang dilakukan bisa dihentikan sementara.
+
+
+Tujuan Penggunaan Kecerdasan Buatan
+
+Tujuan pembuatan mesin yang canggih ini adalah untuk mengurangi waktu kerja sehingga kegiatan dapat lebih efisien. Dengan menggunakan kecerdasan buatan, manusia menjadi lebih murah dalam mengambil keputusan dan melakukan kegiatannya dibandingkan pada masa lalu.
+
